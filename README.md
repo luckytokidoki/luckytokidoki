@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @luckytokidoki
-- 🌱 I’m currently learning Rust and Documentation
+- 🌱 I’m currently learning Rust 🦀 and Documentation 📒
 - 📫 [luckytokidoki@protonmail.com](mailto:luckytokidoki@protonmail.com)
 
 <!---
